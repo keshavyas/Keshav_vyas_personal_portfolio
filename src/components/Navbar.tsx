@@ -48,7 +48,7 @@ export function Navbar() {
           className="group inline-flex items-center gap-2 text-[11px] sm:text-xs uppercase tracking-[0.18em] text-foreground shrink-0"
         >
           <span className="link-underline hidden xs:inline sm:inline">Get in touch</span>
-          <span className="link-underline xs:hidden sm:hidden">Contact</span>
+          {/* <span className="link-underline xs:hidden sm:hidden">Contact</span> */}
           <span className="inline-block transition-transform duration-500 group-hover:translate-x-1">→</span>
         </a>
       </div>
